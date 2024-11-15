@@ -12,12 +12,7 @@
   [2024.03 ~ 2024.08]
 
 ## 🛠️ 보유 기술
-- **프로그래밍 언어**: Python, JavaScript, Java, C++
-- **웹 개발**: React, Node.js, HTML5, CSS3, Bootstrap
-- **모바일 개발**: Flutter, React Native
-- **데이터베이스**: MySQL, MongoDB
-- **기타 도구**: Git, Docker, Kubernetes, Jenkins
-- **클라우드 플랫폼**: AWS, Azure
+[C#, C++, MySql, Unity]
 
 ## 💼 프로젝트
 ### 1. [프로젝트 이름]
