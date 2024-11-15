@@ -25,7 +25,4 @@
 - **기술 스택**: [사용한 기술들, 예: React, Node.js, MongoDB 등]
 - **GitHub 링크**: [https://github.com/your-username/your-project](https://github.com/your-username/your-project)
  
-## 📊 GitHub 통계
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_title=true)
-
 
