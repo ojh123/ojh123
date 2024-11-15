@@ -16,7 +16,7 @@
 
 ## 💼 프로젝트
 ### 1. [ALIVE]
-<img src="https://github.com/user-attachments/assets/23cd14d5-ed33-4195-870e-3dd0085c9625" width="100%" height="250"/>
+<img src="https://github.com/user-attachments/assets/23cd14d5-ed33-4195-870e-3dd0085c9625" width="100%" height="100"/>
 
 - **설명**: 팀원과 좀비를 피해 도시에서 파밍을 하고 기지를 업그레이드하며 생존하는 게임입니다.
 - **사용 기술**: C#, Unity, MySql, Apache, PHP
