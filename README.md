@@ -16,7 +16,7 @@
 
 ## 💼 프로젝트
 ### 1. [개인 프로젝트] 슈퍼마리오 브라더스1_스테이지 1
-<img src="![supermario](https://github.com/user-attachments/assets/0ba0b8cf-76ed-4881-a925-978ad3556eea)"/>
+<img src="https://github.com/user-attachments/assets/0ba0b8cf-76ed-4881-a925-978ad3556eea"/>
 
 - **설명**: 슈퍼마리오 브라더스1 스테이지 1 모작입니다.
 - **개발 기간**: 2주
