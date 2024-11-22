@@ -15,12 +15,20 @@
 - **[C#, C++, MySql, Unity]**
 
 ## 💼 프로젝트
-### 1. [팀프로젝트] ALIVE
+### 1. [개인 프로젝트] 슈퍼마리오 브라더스1_1스테이지
+
+
+- **설명**: 슈퍼마리오 브라더스 1스테이지 모작입니다.
+- **개발 기간**: 2주
+- **사용 기술**: C#, Unity2D
+- **GitHub 링크**: 
+
+### 2. [팀프로젝트] ALIVE
 <img src="https://github.com/user-attachments/assets/23cd14d5-ed33-4195-870e-3dd0085c9625"/>
 
 - **설명**: 팀원과 좀비를 피해 도시에서 파밍을 하고 기지를 업그레이드하며 생존하는 게임입니다.
 - **개발 기간**: 4주
-- **사용 기술**: C#, Unity, MySql, Apache, PHP
+- **사용 기술**: C#, Unity3D, MySql, Apache, PHP
 - **GitHub 링크**: https://github.com/ojh123/Unity3D_Alive_Portfolio
  
 
