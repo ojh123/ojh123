@@ -21,7 +21,7 @@
 - **설명**: 슈퍼마리오 브라더스1 스테이지 1 모작입니다.
 - **개발 기간**: 2주
 - **사용 기술**: C#, Unity2D
-- **GitHub 링크**: 
+- **GitHub 링크**: https://github.com/ojh123/Unity2D_SuperMarioBro_Portfolio
 
 ### 2. [팀프로젝트] ALIVE
 <img src="https://github.com/user-attachments/assets/23cd14d5-ed33-4195-870e-3dd0085c9625"/>
