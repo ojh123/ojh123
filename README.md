@@ -37,6 +37,6 @@
 - **설명**: 멀티 테스크 게임 입니다.
 - **개발 기간**: 2주
 - **사용 기술**: C#, Unity2D, Google Play Console
-- **GitHub 링크**: 
+- **GitHub 링크**: https://github.com/ojh123/Unity2D_Multitask_Portfolio
  
 
