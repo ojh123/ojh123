@@ -56,7 +56,7 @@
 - **GitHub 링크**: https://github.com/ojh123/Unity3D_Alive_Portfolio
 
 - ### 3. [개인 프로젝트] 멀티테스크 게임
-<img sre="https://github.com/user-attachments/assets/6585e8e8-a89a-45ba-b306-da026edab3a2"/>
+<img src="https://github.com/user-attachments/assets/6585e8e8-a89a-45ba-b306-da026edab3a2"/>
 
 - **설명**: 여러 개의 미니 게임을 동시에 플레이하며 멀티태스킹 능력을 테스트하는 모바일 게임입니다. Google Play Console을 활용하여 구글 API를 이용하였습니다.
 - **개발 기간**: 2주
