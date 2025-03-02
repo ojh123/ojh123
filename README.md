@@ -32,7 +32,7 @@
 
 ### 🚀 배포 및 운영  
 - `Google Play Console`  
-  - `앱 배포`, `내부 테스트`
+  - `Google API 연동` (구글 로그인, 클라우드 저장 등)
 
 ### 🔧 버전 관리  
 - `Git`, `GitHub`  
@@ -58,7 +58,7 @@
 - ### 3. [개인 프로젝트] 멀티테스크 게임
 
 
-- **설명**: 멀티 테스크 게임 입니다.
+- **설명**: 여러 개의 미니 게임을 동시에 플레이하며 멀티태스킹 능력을 테스트하는 모바일 게임입니다. Google Play Console을 활용하여 구글 API를 이용하였습니다.
 - **개발 기간**: 2주
 - **사용 기술**: C#, Unity2D, Google Play Console
 - **GitHub 링크**: https://github.com/ojh123/Unity2D_Multitask_Portfolio
