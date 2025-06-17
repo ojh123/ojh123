@@ -26,9 +26,8 @@
   - `DB 설계 및 관리`  
   - `테이블 조작`
 
-### 🌐 백엔드 연동  
-- `Apache`, `PHP`  
-  - `기본적인 서버 구축 및 데이터 연동`  
+### 🌐 네트워크
+- `Mirror`, `Photon`, `Steamworks.NET`
 
 ### 🚀 배포 및 운영  
 - `Google Play Console`  
